@@ -1,0 +1,145 @@
+{
+  "hero": {
+    "title": "Leading Digital Marketing Agency",
+    "subtitle": "Transforming Your Vision into Stunning Digital Reality",
+    "description": "We specialize in creating innovative digital marketing strategies that help your brand grow and thrive in the digital world",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Learn More",
+    "badge": "Premium Digital Marketing Agency",
+    "headline1": "Transform Your Ideas",
+    "headline2": "Into Digital Success"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "A Leading Digital Marketing Company",
+    "description": "We are a team of dedicated experts delivering exceptional digital marketing solutions. With years of experience, we help businesses achieve their goals in the digital space.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Empowering businesses to reach their full digital potential through innovative strategies and effective solutions."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading digital marketing agency in the region, recognized for our excellence and creativity."
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "Transparency, innovation, excellence, and commitment to our clients' success are the core values that guide our work."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Digital Marketing Solutions",
+    "badge": "Our Premium Services",
+    "learnMore": "Learn More",
+    "seo": {
+      "title": "SEO Optimization",
+      "description": "We optimize your website's search engine visibility to increase traffic and conversions"
+    },
+    "social": {
+      "title": "Social Media Management",
+      "description": "Professional management of your social media accounts to build a strong community"
+    },
+    "content": {
+      "title": "Content Creation",
+      "description": "Engaging and impactful content that effectively tells your brand's story"
+    },
+    "ads": {
+      "title": "Digital Advertising",
+      "description": "Strategic ad campaigns that deliver maximum ROI"
+    },
+    "web": {
+      "title": "Web Design",
+      "description": "Modern, responsive websites that reflect your brand identity"
+    },
+    "analytics": {
+      "title": "Analytics & Reporting",
+      "description": "Comprehensive analysis of your campaign performance for data-driven decisions"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us",
+    "subtitle": "We Deliver Real Value",
+    "clients": "Satisfied Clients",
+    "projects": "Completed Projects",
+    "experience": "Years of Experience",
+    "team": "Team Members",
+    "features": {
+      "expertise": {
+        "title": "Extensive Expertise",
+        "description": "A team of seasoned experts in all aspects of digital marketing"
+      },
+      "results": {
+        "title": "Guaranteed Results",
+        "description": "We are committed to delivering measurable results for our clients"
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "We provide continuous support and monitoring for your campaigns"
+      },
+      "innovation": {
+        "title": "Continuous Innovation",
+        "description": "We stay ahead of the latest trends and technologies in digital marketing"
+      }
+    }
+  },
+  "stats": {
+    "happyClients": "Happy Clients",
+    "completedProjects": "Completed Projects",
+    "satisfactionRate": "Satisfaction Rate",
+    "yearsExperience": "Years of Experience"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Testimonials from Satisfied Clients",
+    "badge": "Client Testimonials",
+    "quote1": "They helped us increase our website traffic by 300% within 6 months. Professional team and amazing results!",
+    "quote2": "The digital marketing strategy they developed for us completely transformed our business. I highly recommend them!",
+    "quote3": "Excellent service and ongoing support. A responsive and creative team in solving problems. We are very happy to work with them.",
+    "quote4": "The best decision we made was to partner with this agency. The results speak for themselves and the service is unmatched.",
+    "quote5": "Exceptional results and dedication to work. They exceeded our expectations by far.",
+    "client1": {
+      "name": "Ahmed Mohammed",
+      "company": "Advanced Technology Company"
+    },
+    "client2": {
+      "name": "Fatima Ali",
+      "company": "Success Foundation"
+    },
+    "client3": {
+      "name": "Khalid Hassan",
+      "company": "Innovation Group"
+    },
+    "client4": {
+      "name": "Sara Ibrahim",
+      "company": "Digital Future Company"
+    },
+    "client5": {
+      "name": "Mohammed Al-Ali",
+      "company": "Excellence Company"
+    }
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "followUs": "Follow Us",
+    "quickLinks": "Quick Links",
+    "copyright": "All rights reserved",
+    "description": "A leading digital marketing agency offering comprehensive solutions to help businesses grow and thrive in the digital world.",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to get the latest news and offers",
+      "placeholder": "Your Email",
+      "button": "Subscribe Now"
+    },
+    "addressText": "Riyadh, Saudi Arabia"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "whyChooseUs": "Why Us",
+    "testimonials": "Testimonials"
+  }
+}
