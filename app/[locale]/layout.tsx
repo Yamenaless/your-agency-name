@@ -14,14 +14,27 @@ const montserrat = Montserrat({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  title: "DigitalAgency | وكالة التسويق الرقمي | Digital Marketing Agency",
-  description: "DigitalAgency - وكالة تسويق رقمي رائدة تقدم حلول شاملة للتسويق الرقمي",
-};
-
 interface RootLayoutProps {
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
+}
+
+export async function generateMetadata({
+  params,
+}: RootLayoutProps): Promise<Metadata> {
+  const { locale } = await params;
+
+  if (locale === "ar") {
+    return {
+      title: "DigitalAgency | وكالة التسويق الرقمي",
+      description: "DigitalAgency - وكالة تسويق رقمي رائدة تقدم حلول شاملة للتسويق الرقمي",
+    };
+  }
+
+  return {
+    title: "DigitalAgency | Digital Marketing Agency",
+    description: "DigitalAgency - Leading digital marketing agency offering comprehensive solutions to help businesses grow and thrive in the digital world",
+  };
 }
 
 export default async function RootLayout({
