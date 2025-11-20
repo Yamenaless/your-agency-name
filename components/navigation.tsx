@@ -57,18 +57,11 @@ export function Navigation() {
       <div className="container mx-auto max-w-container px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20 md:h-24">
           {/* Logo */}
-          <motion.div
-            className="text-2xl md:text-3xl font-bold gradient-text"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.5 }}
-          >
+          <div className="text-2xl md:text-3xl font-bold gradient-text">
             <button onClick={() => scrollToSection("hero")}>
-              MarkLab
+              DigitalAgency
             </button>
-          </motion.div>
+          </div>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-12">

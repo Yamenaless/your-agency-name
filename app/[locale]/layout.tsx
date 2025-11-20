@@ -15,8 +15,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "MarkLab | وكالة التسويق الرقمي | Digital Marketing Agency",
-  description: "MarkLab - وكالة تسويق رقمي رائدة تقدم حلول شاملة للتسويق الرقمي",
+  title: "DigitalAgency | وكالة التسويق الرقمي | Digital Marketing Agency",
+  description: "DigitalAgency - وكالة تسويق رقمي رائدة تقدم حلول شاملة للتسويق الرقمي",
 };
 
 interface RootLayoutProps {

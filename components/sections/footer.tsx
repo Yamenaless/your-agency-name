@@ -59,7 +59,7 @@ export function Footer() {
             className="lg:col-span-1"
           >
             <h3 className="text-3xl font-bold mb-6 gradient-text">
-              MarkLab
+              DigitalAgency
             </h3>
             <p className="text-white/60 mb-8 leading-relaxed text-lg">
               {t("description")}
@@ -217,7 +217,7 @@ export function Footer() {
           className="mt-16 pt-8 border-t border-white/10 text-center"
         >
           <p className="text-sm text-white/40">
-            © {new Date().getFullYear()} MarkLab. {t("copyright")}
+            © {new Date().getFullYear()} DigitalAgency. {t("copyright")}
           </p>
         </motion.div>
       </div>
